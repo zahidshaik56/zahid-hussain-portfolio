@@ -8,11 +8,6 @@ const About = () => {
       description: 'Crafting responsive and interactive web applications using modern frameworks',
     },
     {
-      icon: Code,
-      title: 'Python Scripting',
-      description: 'Developing efficient automation tools and data processing solutions',
-    },
-    {
       icon: Database,
       title: 'Data Engineering',
       description: 'Building robust data pipelines and analytics solutions for insights',
@@ -35,22 +30,19 @@ const About = () => {
             {/* About Text */}
             <div className="animate-fade-in">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                I'm a passionate <span className="text-primary font-semibold">Frontend Developer</span> and{' '}
-                <span className="text-primary font-semibold">Python Specialist</span> currently pursuing my B.Tech in 
-                Computer Science Engineering. With a strong foundation in modern web technologies and data engineering, 
-                I love creating digital experiences that are both beautiful and functional.
+                I am a fresh graduate with a Bachelor of Technology in Computer Science Engineering, and a keen interest in Frontend Development and Python programming. Having a good foundation in new web technologies and data engineering, I enjoy building responsive and easy-to-use web applications and in creating Python-based solutions for data automation and analysis.
               </p>
               
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                My journey in technology spans from building responsive web applications using React.js and modern 
-                frameworks to developing robust Python solutions for data analysis and automation. I'm particularly 
-                interested in the intersection of frontend development and data science, where user experience meets 
-                meaningful insights.
+                Throughout my academic career, I created several personal and academic projects using React.js, HTML/CSS, and JavaScript, and used Python for backend development and data analysis. I am specially interested in the convergence of frontend development and data science, which brings design, functionality, and insights together.
+              </p>
+
+              <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+                As a new graduate, I have a curious mind, a quick learning capacity, and a genuine passion to use coding to solve real-world problems. I am always exploring new technologies, working on open-source projects, and tackling challenges that challenge me creatively and technically.
               </p>
 
               <p className="text-lg text-muted-foreground leading-relaxed">
-                When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, 
-                or working on personal projects that challenge my skills and creativity.
+                I'm interested in opportunities to develop as a developer, learn alongside experienced teams, and help build meaningful digital solutions.
               </p>
             </div>
 
