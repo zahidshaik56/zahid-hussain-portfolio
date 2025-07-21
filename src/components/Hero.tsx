@@ -26,7 +26,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto">
           {/* Profile Image */}
           <div className="mb-8 animate-fade-in">
-            <div className="w-48 h-48 mx-auto rounded-full overflow-hidden glass p-2 hover-glow transition-smooth">
+            <div className="w-100 h-100 mx-auto rounded-full overflow-hidden glass p-2 hover-glow transition-smooth">
               <img
                 src={profilePhoto}
                 alt="Shaik Zahid Hussain"
