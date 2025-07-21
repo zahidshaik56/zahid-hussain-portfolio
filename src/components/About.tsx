@@ -12,6 +12,11 @@ const About = () => {
       title: 'Data Engineering',
       description: 'Building robust data pipelines and analytics solutions for insights',
     },
+    {
+      icon: Code,
+      title: 'Python Programming',
+      description: 'Developing efficient automation tools and data processing solutions',
+    },
   ];
 
   return (
